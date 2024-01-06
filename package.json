@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js",
-    "test": "babel-node test.js"
+    "test": "babel-node test.js",
+    "build":"npm i"
   },
   "keywords": [],
   "author": "",
