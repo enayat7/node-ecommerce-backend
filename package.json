@@ -1,5 +1,5 @@
 {
-  "name": "backend_note_api",
+  "name": "node-ecommerce-backend",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
